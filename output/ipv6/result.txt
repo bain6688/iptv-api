@@ -1,6 +1,51 @@
 🕘️更新时间,#genre#
-2026-05-22 11:31:59,url
+2026-05-24 16:46:33,https://iptv2.bainc.de5.net:6688/live?url=http%3A//183.188.227.238%3A6001/rtp/226.0.2.153%3A9136
 
 📺央视频道,#genre#
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//183.188.227.238%3A6001/rtp/226.0.2.153%3A9136
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//183.188.227.227%3A6000/rtp/226.0.2.153%3A9136
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//58.35.123.183%3A3333/rtp/233.18.204.52%3A5140
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.120%3A5140
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//114.249.13.164%3A4022/rtp/239.3.1.129%3A8008
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//180.109.75.116%3A4022/rtp/239.49.8.129%3A6000
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//125.108.127.195%3A7778/rtp/233.50.201.118%3A5140
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//60.13.87.224%3A4022/rtp/239.254.96.82%3A7640
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//125.108.127.195%3A7778/rtp/233.50.200.130%3A5140
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//58.35.123.183%3A3333/rtp/233.18.204.168%3A5140
+CCTV-1,https://iptv2.bainc.de5.net:6688/live?url=http%3A//183.191.140.36%3A8001/rtp/226.0.2.153%3A9136
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//114.249.13.164%3A4022/rtp/239.3.1.60%3A8084
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//58.35.123.183%3A3333/rtp/233.18.204.68%3A5140
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.195%3A5140
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//114.238.59.173%3A4000/rtp/239.49.8.130%3A6000
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//183.188.227.238%3A6001/rtp/226.0.2.154%3A9144
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//125.108.127.195%3A7778/rtp/233.50.200.25%3A5140
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//125.108.127.195%3A7778/rtp/233.50.201.119%3A5140
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//60.13.87.224%3A4022/rtp/239.254.96.124%3A7084
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//180.109.75.116%3A4022/rtp/239.49.8.130%3A6000
+CCTV-2,https://iptv2.bainc.de5.net:6688/live?url=http%3A//183.188.227.227%3A6000/rtp/226.0.2.154%3A9144
+CCTV-3,https://iptv2.bainc.de5.net:6688/live?url=http%3A//58.35.123.183%3A3333/rtp/233.18.204.69%3A5140
+CCTV-3,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.244%3A5140
+CCTV-3,https://iptv2.bainc.de5.net:6688/live?url=http%3A//114.249.13.164%3A4022/rtp/239.3.1.172%3A8001
+CCTV-3,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.2.208%3A9576
+CCTV-3,https://iptv2.bainc.de5.net:6688/live?url=http%3A//60.13.87.224%3A4022/rtp/239.254.96.67%3A7520
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//60.13.87.224%3A4022/rtp/239.254.96.180%3A7092
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.196%3A5140
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.78%3A5140
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.77%3A5140
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//58.35.123.183%3A3333/rtp/233.18.204.70%3A5140
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//114.249.13.164%3A4022/rtp/239.3.1.105%3A8092
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//114.249.13.164%3A4022/rtp/239.3.1.213%3A4220
+CCTV-4,https://iptv2.bainc.de5.net:6688/live?url=http%3A//114.249.13.164%3A4022/rtp/239.3.1.214%3A4220
+CCTV-5+,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.2.168%3A9256
+CCTV-6,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.246%3A5140
+CCTV-7,https://iptv2.bainc.de5.net:6688/live?url=http%3A//58.35.123.183%3A3333/rtp/233.18.204.73%3A5140
+CCTV-7,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.54%3A5140
+CCTV-9,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.2.161%3A9200
+CCTV-10,https://iptv2.bainc.de5.net:6688/live?url=http%3A//119.41.37.141%3A10000/rtp/239.253.64.87%3A5140
+CCTV-10,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.2.162%3A9208
+CCTV-13,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.2.165%3A9232
+CCTV-16,https://iptv2.bainc.de5.net:6688/live?url=http%3A//58.35.123.183%3A3333/rtp/233.18.204.215%3A5140
 
 📡卫视频道,#genre#
+湖南卫视,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.1.246%3A2125
+重庆卫视,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.2.174%3A9304
