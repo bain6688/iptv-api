@@ -1,7 +1,6 @@
 🕘️更新时间,#genre#
-2026-05-25 04:00:23,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.1.246%3A2125
+2026-05-26 04:18:07,url
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-湖南卫视,https://iptv2.bainc.de5.net:6688/live?url=http%3A//171.120.171.192%3A6001/rtp/226.0.1.246%3A2125
