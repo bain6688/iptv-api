@@ -3,11 +3,12 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 https://iptv2.bainc.de5.net:6688/sub?Uh1zsRvb=m3u
-https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u
-https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u
-https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u
-https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
-https://live.hacks.tools/tv/ipv4/categories/儿童频道.m3u
+
+# https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u
+# https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u
+# https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u
+# https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
+# https://live.hacks.tools/tv/ipv4/categories/儿童频道.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
