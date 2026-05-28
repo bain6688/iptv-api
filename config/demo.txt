@@ -1,30 +1,6 @@
-📺央视频道,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
-CETV-1
-CETV-2
-CETV-3
-CETV-4
-CGTN
-
-📡4K频道,#genre#
-CCTV-4K
+4K频道,#genre#
+CCTV 4K
+CCTV-16 4K
 湖南卫视4K
 浙江卫视4K
 东方卫视4K
@@ -64,7 +40,31 @@ CCTV-4K
 炫动卡通4K
 卡酷少儿4K
 
-📡卫视频道,#genre#
+央视卫视频道,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-5
+CCTV-5+
+CCTV-6
+CCTV-7
+CCTV-8
+CCTV-9
+CCTV-10
+CCTV-11
+CCTV-12
+CCTV-13
+CCTV-14
+CCTV-15
+CCTV-16
+CCTV-17
+CETV-1
+CETV-2
+CETV-3
+CETV-4
+CGTN
+
 湖南卫视
 浙江卫视
 东方卫视
@@ -98,13 +98,24 @@ CCTV-4K
 海峡卫视
 厦门卫视
 旅游卫视
+
+CCTV-14少儿频道
 金鹰卡通
 嘉佳卡通
-优漫卡通
 炫动卡通
 卡酷少儿
+优漫卡通
+尼克国际儿童频道Nickelodeon
+Cartoon Network卡通频道
+迪士尼频道
+BabyTV
+巴啦啦小魔仙频道
+猪猪侠频道
+超级飞侠频道
+少儿科教频道
+少儿动画频道
 
-☘️港澳台频道,#genre#
+港澳台频道,#genre#
 翡翠台
 明珠台
 本港台
@@ -131,7 +142,7 @@ TVBS
 华视
 台视
 
-☘️地方特色频道
+其他频道,#genre#
 广东珠江频道
 广东体育频道
 广东新闻频道
@@ -165,24 +176,6 @@ TVBS
 江西都市频道
 福建东南都市频道
 
-☘️少儿/卡通频道
-CCTV-14少儿频道
-金鹰卡通
-卡酷少儿
-优漫卡通
-嘉佳卡通
-炫动卡通
-尼克国际儿童频道Nickelodeon
-Cartoon Network卡通频道
-迪士尼频道
-BabyTV
-巴啦啦小魔仙频道
-猪猪侠频道
-超级飞侠频道
-少儿科教频道
-少儿动画频道
-
-☘️综艺/影视/音乐频道
 CCTV-3综艺频道
 湖南卫视综艺频道
 浙江卫视综艺频道
@@ -203,7 +196,6 @@ CCTV-15音乐频道
 环球音乐频道
 经典音乐频道
 
-☘️体育频道
 CCTV-5体育频道
 CCTV-5+体育赛事
 广东体育频道
