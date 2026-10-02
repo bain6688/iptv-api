@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bain6688/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV 4K" tvg-name="CCTV 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 4K.png" group-title="🕘️更新时间",2026-10-02 06:57:33
+#EXTINF:-1 tvg-id="CCTV 4K" tvg-name="CCTV 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 4K.png" group-title="🕘️更新时间",2026-10-03 06:39:04
 http://110.72.80.220:808/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="央视卫视频道",CCTV-1
 http://110.72.80.220:808/hls/54/index.m3u8
