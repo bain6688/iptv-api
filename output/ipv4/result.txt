@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-10-03 06:39:04,http://110.72.80.220:808/hls/54/index.m3u8
+2026-10-04 05:53:32,http://110.72.80.220:808/hls/54/index.m3u8
 
 4K频道,#genre#
 
 央视卫视频道,#genre#
 CCTV-1,http://110.72.80.220:808/hls/54/index.m3u8
 CCTV-2,http://183.243.90.126:9003/hls/2/index.m3u8
-CCTV-2,http://139.227.221.147:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://139.227.221.147:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,http://183.243.90.126:9003/hls/4/index.m3u8
 CCTV-5,http://110.72.80.220:808/hls/38/index.m3u8
@@ -18,7 +17,6 @@ CCTV-8,http://139.227.221.147:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&a
 CCTV-9,http://139.227.221.147:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://139.227.221.147:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://120.237.39.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-12,http://120.237.39.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-12,http://221.221.137.78:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://139.227.221.147:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://183.243.90.98:9003/hls/14/index.m3u8
@@ -51,7 +49,6 @@ CGTN,http://139.227.221.147:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&aut
 黑龙江卫视,http://120.237.39.10:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
 吉林卫视,http://114.241.105.149:85/tsfile/live/47/1047_1.m3u8?key=txiptv
 内蒙古卫视,http://171.38.222.113:9003/hls/83/index.m3u8
-山西卫视,http://110.72.83.175:808/hls/42/index.m3u8
 山西卫视,http://110.72.80.62:808/hls/42/index.m3u8
 陕西卫视,http://183.62.8.58:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://60.220.167.65:9003/hls/24/index.m3u8
