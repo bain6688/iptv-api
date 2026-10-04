@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bain6688/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV 4K" tvg-name="CCTV 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 4K.png" group-title="🕘️更新时间",2026-10-04 05:53:32
+#EXTINF:-1 tvg-id="CCTV 4K" tvg-name="CCTV 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 4K.png" group-title="🕘️更新时间",2026-10-05 06:03:06
 http://110.72.80.220:808/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="央视卫视频道",CCTV-1
 http://110.72.80.220:808/hls/54/index.m3u8
@@ -49,10 +49,6 @@ http://110.72.83.175:808/hls/129/index.m3u8
 http://121.24.98.227:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="央视卫视频道",CGTN
 http://139.227.221.147:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="央视卫视频道",湖南卫视
-http://110.72.55.207:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="央视卫视频道",湖南卫视
-http://110.72.85.234:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="央视卫视频道",湖南卫视
 http://110.72.72.245:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="央视卫视频道",浙江卫视

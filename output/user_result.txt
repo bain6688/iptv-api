@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-04 05:53:32,http://110.72.80.220:808/hls/54/index.m3u8
+2026-10-05 06:03:06,http://110.72.80.220:808/hls/54/index.m3u8
 
 4K频道,#genre#
 
@@ -28,8 +28,6 @@ CCTV-17,http://183.243.90.98:9003/hls/17/index.m3u8
 CETV-1,http://110.72.83.175:808/hls/129/index.m3u8
 CETV-4,http://121.24.98.227:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://139.227.221.147:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://110.72.55.207:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://110.72.85.234:808/hls/25/index.m3u8
 湖南卫视,http://110.72.72.245:808/hls/25/index.m3u8
 浙江卫视,http://120.237.39.10:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
 东方卫视,http://110.72.86.31:808/hls/29/index.m3u8
