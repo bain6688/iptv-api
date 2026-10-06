@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bain6688/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV 4K" tvg-name="CCTV 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 4K.png" group-title="🕘️更新时间",2026-10-05 06:03:06
+#EXTINF:-1 tvg-id="CCTV 4K" tvg-name="CCTV 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 4K.png" group-title="🕘️更新时间",2026-10-06 08:26:26
 http://110.72.80.220:808/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="央视卫视频道",CCTV-1
 http://110.72.80.220:808/hls/54/index.m3u8
@@ -31,8 +31,6 @@ http://120.237.39.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
 http://221.221.137.78:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="央视卫视频道",CCTV-13
 http://139.227.221.147:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="央视卫视频道",CCTV-14
-http://183.243.90.98:9003/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="央视卫视频道",CCTV-14
 http://183.243.90.126:9003/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="央视卫视频道",CCTV-15
